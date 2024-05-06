@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+mlxtend 
+plotly
+openpyxl
+seaborn
