@@ -1,0 +1,9 @@
+antecedents,consequents,antecedent_support,consequent_support,support,confidence,lift,leverage,conviction,zhangs_metric
+(Supplies),(Bookcases),0.006289,0.140461,0.001048,0.166667,1.186567,0.000165,1.031447,0.158228
+(Bookcases),(Supplies),0.140461,0.006289,0.001048,0.007463,1.186567,0.000165,1.001182,0.182927
+"(Tables, Chairs)",(Bookcases),0.002096,0.140461,0.001048,0.5,3.559701,0.000754,1.719078,0.720588
+"(Tables, Bookcases)",(Chairs),0.001048,0.119497,0.001048,1,8.368421,0.000923,inf,0.881427
+"(Chairs, Bookcases)",(Tables),0.001048,0.106918,0.001048,1,9.352941,0.000936,inf,0.894019
+(Tables),"(Chairs, Bookcases)",0.106918,0.001048,0.001048,0.009804,9.352941,0.000936,1.008842,1
+(Chairs),"(Tables, Bookcases)",0.119497,0.001048,0.001048,0.008772,8.368421,0.000923,1.007792,1
+(Bookcases),"(Tables, Chairs)",0.140461,0.002096,0.001048,0.007463,3.559701,0.000754,1.005407,0.836585
